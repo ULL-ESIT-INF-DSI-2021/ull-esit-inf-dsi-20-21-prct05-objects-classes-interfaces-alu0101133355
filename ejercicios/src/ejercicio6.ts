@@ -21,7 +21,6 @@
       return false;
     }
   }
-
   /*Ejemplos enunciado*/
   let ejemplo1: string = `3-598-21507-X`
   console.log(isValidISBN(ejemplo1));
