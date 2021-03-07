@@ -24,4 +24,5 @@ function isValid(cadena) {
     console.log(`La cadena es `);
     return centil;
 }
+/*Ejemplo del enunciado*/
 console.log(isValid('3say5hello2hi'));
