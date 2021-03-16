@@ -1,3 +1,9 @@
+/**
+ * Desarrollar la funcion moveZeros que mueva todos los ceros precentes en el array al 
+ * final del mismo
+ * @param array 
+ * @returns resultado final pedido
+ */
 export function moveZeros(array: number[]): number[] {
     let array1: number[] = [];
     let array2: number[] = [];
