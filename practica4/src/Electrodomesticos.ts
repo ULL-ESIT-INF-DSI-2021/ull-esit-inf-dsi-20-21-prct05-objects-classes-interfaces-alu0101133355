@@ -1,4 +1,5 @@
-type ColorType = 'white' | 'black' | 'red' | 'blue' | 'grey';
+/**
+ * type ColorType = 'white' | 'black' | 'red' | 'blue' | 'grey';
 
 abstract class Electrodomesticos {
 
@@ -42,16 +43,11 @@ abstract class Electrodomesticos {
     private resolucion: number = 20;
     private smartv: boolean;
 
-     
-
-
-
 
   }
+*/
 
 
 
 
 
-
-}
