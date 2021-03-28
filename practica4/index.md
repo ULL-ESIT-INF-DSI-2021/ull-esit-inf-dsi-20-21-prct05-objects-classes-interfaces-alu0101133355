@@ -217,7 +217,7 @@ export class Combat {
 ``` 
 Por ultimo a continuacion se muestra una imagen con la salida de nuestra prueba del programa:
 
-![imagen](Imagenes/Captura de pantalla de 2021-03-23 17-15-52.png)
+![imagen](Imagenes/pokemon.png)
 
 
 ## Ejercicio 2: Gestor bibliografico
