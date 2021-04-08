@@ -1,6 +1,5 @@
 /**
- * Interface tipo Generica para implementar una
- * pila tipo LIFO
+ * Interface tipo Generica para genere una LIFO
  * PE 103 
  * AUTOR: Javier Martin de Leon
  */
